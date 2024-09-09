@@ -1,4 +1,4 @@
-因保密問題, 我沒有將所有的code放上來, 但如果需要, 我們可以在課堂上討論
+因保密問題, 我沒有將所有的code放上來, 但如果需要, 我們可以再討論
 
 0906目前問題:
 在AssemblyJob這邊, 可以找到一個function 叫calculateOperationPositions 的, 
